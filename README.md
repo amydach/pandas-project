@@ -1,5 +1,5 @@
 Academy of Py Project
-![Education](PyCitySchools/images/education.png)
+![Education](Images/education.png)
 
 Project Description:
 
