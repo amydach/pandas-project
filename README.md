@@ -1,5 +1,5 @@
 Academy of Py Project
-![Education](Images/education.png)
+![Education](images/education.png)
 
 Project Description:
 
@@ -15,7 +15,7 @@ Our finished project help's people explore the Olympic data.
 
 Link to my Github repo:  https://github.com/amydach/pandas_homework
 
-	* Select folder PyCitySchools to run Jypyter Notebook file PyCitySchools_Starter.ipynb.  
+	* Select folder PyCitySchools to run Jupyter Notebook file PyCitySchools_Starter.ipynb.  
 	* Review viewable Data Frames and a written description of at least two observable trends based on the data.
 
 Dependencies:
