@@ -10,20 +10,16 @@ Data Source:
 District and school data files are at link below:
 https://github.com/amydach/pandas_homework/tree/master/PyCitySchools/Resources
 
-Features:
-Our finished project help's people explore the Olympic data.
-
 Link to my Github repo:  https://github.com/amydach/pandas_homework
 
 	* Select folder PyCitySchools to run Jupyter Notebook file PyCitySchools_Starter.ipynb.  
 	* Review viewable Data Frames and a written description of at least two observable trends based on the data.
 
 Dependencies:
-Pandas
+Pandas, 
 Jupyter Notebook
 
 Usage:
-
 Showcase trends in school and district performance.
 
 My final report includes each of the following:
