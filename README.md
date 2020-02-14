@@ -1,31 +1,31 @@
-#Academy of Py Project
+# __Academy of Py Project__
 ![Education](Images/education.png)
 
 
-##Project Description:
+## Project Description:
 
 As the Chief Data Scientist for my city's school district. In this capacity, I'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 As a first task, I've been asked to analyze the district-wide standardized test results. I've been given access to every student's math and reading scores, as well as various information on the schools they attend. It is my responsibility is to aggregate the data to and showcase obvious trends in school performance.
 
-##Data Source:
+## Data Source:
 District and school data files are at link below:
 https://github.com/amydach/pandas_homework/tree/master/PyCitySchools/Resources
 
-##Link to my Github repo:  
+## Link to my Github repo:  
 
 https://github.com/amydach/pandas_homework
 
 	* Select folder PyCitySchools to run Jupyter Notebook file PyCitySchools_Starter.ipynb.  
 	* Review viewable Data Frames and a written description of at least two observable trends based on the data.
 
-##Dependencies:
+## Dependencies:
 Pandas, 
 Jupyter Notebook
 
-##Usage:
+## Usage:
 Showcase trends in school and district performance.
 
-##My final report includes each of the following:
+## My final report includes each of the following:
 
 ### District Summary
 
