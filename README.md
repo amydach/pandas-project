@@ -39,7 +39,7 @@ Showcase trends in school and district performance.
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
-### School Summary
+### School Summary:
 
 * Created an overview table that summarizes key metrics about each school, including:
   * School Name
