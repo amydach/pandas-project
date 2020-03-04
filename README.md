@@ -75,11 +75,11 @@ Showcase trends in school and district performance.
 
 * Created a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-### Reading Scores by Grade
+### Reading Scores by Grade:
 
 * Created a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-### Scores by School Spending
+### Scores by School Spending:
 
 * Created a table that breaks down school performances based on average Spending Ranges (Per Student). Created 4 reasonable bins to group school spending. Included in the table each of the following:
   * Average Math Score
@@ -88,11 +88,11 @@ Showcase trends in school and district performance.
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
-### Scores by School Size
+### Scores by School Size:
 
 * Repeated the above breakdown, but this time grouped schools based on a reasonable approximation of school size (Small, Medium, Large).
 
-### Scores by School Type
+### Scores by School Type:
 
 * Repeated the above breakdown, but this time grouped schools based on school type (Charter vs. District).
 
