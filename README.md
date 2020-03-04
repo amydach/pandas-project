@@ -53,7 +53,7 @@ Showcase trends in school and district performance.
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
-### Top Performing Schools (By Passing Rate)
+### Top Performing Schools (By Passing Rate):
 
 * Created a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
   * School Name
