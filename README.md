@@ -27,7 +27,7 @@ Showcase trends in school and district performance.
 
 ## My final report includes each of the following:
 
-### District Summary
+### District Summary:
 
 * Created a high level snapshot (in table form) of the district's key metrics, including:
   * Total Schools
