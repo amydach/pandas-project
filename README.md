@@ -71,7 +71,7 @@ Showcase trends in school and district performance.
 
 * Created a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Included all of the same metrics as above.
 
-### Math Scores by Grade\*\*
+### Math Scores by Grade\*\*:
 
 * Created a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
